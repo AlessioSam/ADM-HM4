@@ -1,6 +1,6 @@
 # ADM-Hm4
 
-Repository for the fourth homework of group # 25 composed of Alessio Sampieri, Salwa Afrah and Gambza Bakhishaliyeva.
+Repository for the fourth homework of group # 25 composed of Alessio Sampieri, Salwa Afrah and Gamza Bakhishaliyeva.
 
 The files are:
 
