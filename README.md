@@ -21,4 +21,4 @@ The repository includes the following files:
       > A Python file containing the code needed to implement K-means on given data.
       
 5. theoretical_lib.py:
-      > A Python file with all are needed to check the K-means cons and the posibility of trapping in local minimum. 
+      > A Python file with all are needed to check the wrong K-means.  
