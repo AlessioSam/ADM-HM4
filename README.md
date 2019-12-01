@@ -7,11 +7,18 @@
 #### README.md: 
 a Markdown file that explains the content of our repository.
 
-#### main.ipynb: 
-a Jupyter notebook explaines the choices we made throughout the homework which are represented as:
+The repository includes the following files:
+1. main.ipynb :
+     > A Jupyter notebook which provides an overview of every single step of which the process to implement the code has                     consisted in.
+			
+2. hashing_lib.py`:
+      > A Python file which contains the code about hashing and bloom filter and finding the true false positives. 
 
-For the first task  we worked on the Hashing task , clearly explaining the steps needed to solve the first question,the dataset needed for testing our algorithms and our own implementation of Bloom Filter data structure . 
-
-For the second task where we implemented our own version of counting sort algorithm and created an algorithm for Alphabetical Sorting.
-
-For the third task Finding similar win using clustering namely k-mean algorithm …
+3. sorting_lib.py:
+      > A Python file which has all the functions needed for alphabetical sorting and analysing empirical running time. 
+      
+4. clustring_lib.py:
+      > A Python file containing the code needed to implement K-means on given data.
+      
+5. theoretical_lib.py:
+      > A Python file with all are needed to check the K-means cons and the posibility of trapping in local minimum. 
